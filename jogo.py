@@ -8,7 +8,7 @@ pygame.init()
 # Configurações da janela
 width, height = 800, 800
 screen = pygame.display.set_mode((width, height))
-pygame.display.set_caption("Jogo de Perguntas")
+pygame.display.set_caption("Jogo A Viagem")
 
 # Cores
 white = (255, 255, 255)
